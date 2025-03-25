@@ -20,6 +20,9 @@ Built with React, TypeScript, and OpenAI's chat completions API with streaming s
 
 ## Demo
 
+Here’s how it works in action:
+
+![Behavioral AI Demo](https://raw.githubusercontent.com/madgb/behavior_interview_bot/refs/heads/main/behavior_ai_demo.gif)
 
 ---
 
